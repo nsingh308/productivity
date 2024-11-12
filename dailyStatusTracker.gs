@@ -1,5 +1,3 @@
-Here’s the script with extra comments removed for cleaner readability:
-
 function checkDailyStatusEmailsByLabel() {
   var expectedSenders = [
     'EngineerNames....'
@@ -88,5 +86,3 @@ function writeStatusToGoogleSheetWithColor(status) {
   
   range.setBackgrounds([backgrounds]); 
 }
-
-This streamlined version should help with readability and ease of understanding. Let me know if you need any further adjustments!
